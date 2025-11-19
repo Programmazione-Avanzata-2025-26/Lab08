@@ -1,4 +1,9 @@
-# Lab 08
+# Lab 08 - Soluzione
+
+> **💡 NOTA:** 
+>  Di seguito lo schema effettuato dall'algoritmo di ricorsione per generare tutte le possibili sequenze.
+> ![ricorsione.png](img/ricorsione.png)
+
 
 #### Argomenti
 
